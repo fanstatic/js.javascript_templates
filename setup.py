@@ -33,6 +33,7 @@ setup(
     keywords='',
     author='Andreas Kaiser',
     author_email='disko@binary-punks.com',
+    url='https://github.com/disko/js.javascript_templates',
     license='BSD',
     packages=find_packages(),
     namespace_packages=['js'],
